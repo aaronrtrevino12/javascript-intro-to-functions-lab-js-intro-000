@@ -1,5 +1,5 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase()  // "toUpperCase" receives one argument and returns it in all caps
 }
 
 function whisper(string) {
