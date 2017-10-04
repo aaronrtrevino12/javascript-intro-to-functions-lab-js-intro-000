@@ -3,7 +3,7 @@ function shout(string) {
 }
 
 function whisper(string) {
-  return string.toLowerCase()
+  return string.toLowerCase()  // The method "toLowerCase()" receives one argument and returns it all lowercase
 }
 
 function logShout(string) {
